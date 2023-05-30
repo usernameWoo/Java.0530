@@ -15,4 +15,5 @@ public class JavaSample {
 	 * 
 	 */
 	//  main : 프로그램이 실행되기 위해 필요한 것(메소드)
+	
 }
