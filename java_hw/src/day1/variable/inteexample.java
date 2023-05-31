@@ -15,7 +15,7 @@ System.out.println(num4);
 System.out.println(num5);
 
 //1234567890123 은 int로 표현할 수 없는 큰 숫자
-//long 타입에 큰 숫자를 저장할 경우 리터럴에 L 
+
 	}
 
 }
